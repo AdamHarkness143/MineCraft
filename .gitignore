@@ -1,0 +1,16 @@
+!Packages/manifest.json
+Assets/Scenes/SinglePlayer
+Assets/Scenes/Demo/LightDemo
+Assets/Scenes/Demo/StencilAndDepth
+.idea/
+Library/
+Logs/
+Temp/
+obj/
+Builds/
+Packages/
+UserSettings/
+ProjectSettings/RiderScriptEditorPersistedState.asset
+*.csproj
+*.sln
+*.blender1
